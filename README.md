@@ -6,19 +6,19 @@ Make sure to read the README there as it will detail the steps necessary to use 
 Structure
 ---
 There are two folders in the root:
-    1. oracleMUS/
-    2. oracleSFX/
+ 1. oracleMUS/
+ 2. oracleSFX/
 Inside, there should each be four folders.
-    1. Ages/
-    2. Common/
-    3. Seasons/
-    4. unfinished/
+ 1. Ages/
+ 2. Common/
+ 3. Seasons/
+ 4. unfinished/
 The first three are locations of finished rewrites that anyone is free to use.
 The content of those folders typically house 3-4 files:
-    1. Original S file [.s]
-    2. Rewritten S file [-2.s]
-    3. MuseScore file [.mscz]
-    4. Music file [.mp3]
+ 1. Original S file [.s]
+ 2. Rewritten S file [-2.s]
+ 3. MuseScore file [.mscz]
+ 4. Music file [.mp3]
 The only important file is the second, as that is what will replace the original channel data.
 The other 3 are useful for understanding of the music, but are not necessary for the transfer process. Again, visit the custom-channelData repository to get full detail on how to transfer.
 
