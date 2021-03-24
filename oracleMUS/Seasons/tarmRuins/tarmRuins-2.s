@@ -19,7 +19,7 @@ tarmRuinsChannel1:
 tarmRuinsChannel1Measure1:
    resetCoda
 
-.redefine BEAT 4        ;32nd beat
+.redefine BEAT 4        ;32th note
     octave 5
 ; Measure 3
     volbeat g 16
@@ -167,7 +167,7 @@ tarmRuinsChannel1Measure14c:
 
 
 tarmRuinsChannel0:
-.redefine BEAT 8    ;16th beat
+.redefine BEAT 8    ;16th note
 ;    vibrato $00     ;pointless?
 ;    env $0 $00      ;pointless?
 ; Measure 1
@@ -334,7 +334,7 @@ tarmRuinsChannel0Measure9b:
 
 tarmRuinsChannel0Measure11:
 ;Coda 16
-.redefine BEAT 4    ;32nd beat
+.redefine BEAT 4    ;32th note
     octave 3
 ; Measure 11
     beat ds 1 r 1
@@ -442,7 +442,7 @@ tarmRuinsChannel0Measure12b:
 
 tarmRuinsChannel0Measure15:
 ;Coda 26
-.redefine BEAT 8        ;16th beat
+.redefine BEAT 8        ;16th note
     octave 3
 ; Measure 15
     beat g 1 r 1
